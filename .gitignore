@@ -6,3 +6,5 @@ aws-s3/.terraform
 aws-s3/.terraform.lock.hcl
 aws-s3/terraform.tfstate
 aws-s3/terraform.tfstate.backup
+tf-backend/.terraform
+tf-backend/.terraform.lock.hcl
