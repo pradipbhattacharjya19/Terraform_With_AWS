@@ -2,3 +2,7 @@ aws-ec2/.terraform
 aws-ec2/.terraform.lock.hcl
 aws-ec2/terraform.tfstate
 aws-ec2/terraform.tfstate.backup
+aws-s3/.terraform
+aws-s3/.terraform.lock.hcl
+aws-s3/terraform.tfstate
+aws-s3/terraform.tfstate.backup
