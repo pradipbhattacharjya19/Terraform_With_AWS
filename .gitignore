@@ -8,3 +8,5 @@ aws-s3/terraform.tfstate
 aws-s3/terraform.tfstate.backup
 tf-backend/.terraform
 tf-backend/.terraform.lock.hcl
+project-static-wesite/.terraform
+project-static-wesite/.terraform.lock.hcl
