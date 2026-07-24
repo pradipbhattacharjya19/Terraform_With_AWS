@@ -14,3 +14,7 @@ tf-vpc/.terraform
 tf-vpc/.terraform.lock.hcl
 tf-vpc/terraform.tfstate
 tf-vpc/terraform.tfstate.backup
+NGINX_EC2_Vpc_HTTP/.terraform
+NGINX_EC2_Vpc_HTTP/.terraform.lock.hcl 
+NGINX_EC2_Vpc_HTTP/terraform.tfstate
+NGINX_EC2_Vpc_HTTP/terraform.tfstate.backup
